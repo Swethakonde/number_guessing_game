@@ -1,4 +1,4 @@
-***# Number Guessing Game:***
+**# Number Guessing Game:**
 
 This is a simple Python-based Number Guessing Game where the computer selects a random number and the user tries to guess it within limited attempts.
 
@@ -18,17 +18,17 @@ This is a simple Python-based Number Guessing Game where the computer selects a 
 2. Clone the repository or download the files.
 3. Run the game using the command:
  
-**#bash:**
+**# bash:**
 
 python number_guessing.py
 
-***#Files in the Repository:***
+***# Files in the Repository:***
 
 1.number_guessing.py – Main game script
 
 2.high_score.txt – Stores the highest score
 
-***# How it Works:***
+ ***# How it Works:***
 
 A random number is generated based on difficulty level.
 
